@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button1.png",
+        "source": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\drawable-mdpi\\button1.png"
+    },
+    {
+        "merged": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn.png",
+        "source": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\drawable-mdpi\\btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sudoku_1.png",
+        "source": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\drawable-mdpi\\sudoku_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_name.png",
+        "source": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_1.png",
+        "source": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\drawable-mdpi\\btn_1.png"
+    }
+]

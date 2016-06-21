@@ -1,0 +1,619 @@
+[
+    {
+        "outputFile": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 11,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 3,
+                        "startOffset": 450,
+                        "endLine": 14,
+                        "endColumn": 11,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 46,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 3,
+                        "startOffset": 450,
+                        "endColumn": 45,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 53,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 3,
+                        "startOffset": 501,
+                        "endColumn": 52,
+                        "endOffset": 550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 47,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 3,
+                        "startOffset": 654,
+                        "endColumn": 46,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 53,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 3,
+                        "startOffset": 702,
+                        "endColumn": 52,
+                        "endOffset": 751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 416,
+                    "endColumn": 49,
+                    "endOffset": 461
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 3,
+                        "startOffset": 555,
+                        "endColumn": 48,
+                        "endOffset": 600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 466,
+                    "endColumn": 49,
+                    "endOffset": 511
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 3,
+                        "startOffset": 756,
+                        "endColumn": 48,
+                        "endOffset": 801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 516,
+                    "endColumn": 49,
+                    "endOffset": 561
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 3,
+                        "startOffset": 806,
+                        "endColumn": 48,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 566,
+                    "endColumn": 49,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 3,
+                        "startOffset": 856,
+                        "endColumn": 48,
+                        "endOffset": 901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 48,
+                    "endOffset": 660
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 3,
+                        "startOffset": 605,
+                        "endColumn": 47,
+                        "endOffset": 649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 665,
+                    "endColumn": 51,
+                    "endOffset": 712
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 3,
+                        "startOffset": 906,
+                        "endColumn": 50,
+                        "endOffset": 953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 717,
+                    "endColumn": 45,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 3,
+                        "startOffset": 265,
+                        "endColumn": 44,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endLine": 25,
+                    "endColumn": 9,
+                    "endOffset": 1055
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 3,
+                        "startOffset": 1184,
+                        "endLine": 42,
+                        "endColumn": 9,
+                        "endOffset": 1483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1060,
+                    "endColumn": 60,
+                    "endOffset": 1116
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 3,
+                        "startOffset": 1123,
+                        "endColumn": 59,
+                        "endOffset": 1179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1121,
+                    "endColumn": 43,
+                    "endOffset": 1160
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 3,
+                        "startOffset": 56,
+                        "endColumn": 42,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1165,
+                    "endColumn": 43,
+                    "endOffset": 1204
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 3,
+                        "startOffset": 816,
+                        "endColumn": 42,
+                        "endOffset": 855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1209,
+                    "endColumn": 43,
+                    "endOffset": 1248
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 3,
+                        "startOffset": 311,
+                        "endColumn": 42,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1253,
+                    "endColumn": 43,
+                    "endOffset": 1292
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 3,
+                        "startOffset": 964,
+                        "endColumn": 42,
+                        "endOffset": 1003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1297,
+                    "endColumn": 43,
+                    "endOffset": 1336
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 3,
+                        "startOffset": 908,
+                        "endColumn": 42,
+                        "endOffset": 947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1341,
+                    "endColumn": 64,
+                    "endOffset": 1401
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 3,
+                        "startOffset": 685,
+                        "endColumn": 63,
+                        "endOffset": 745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1406,
+                    "endColumn": 45,
+                    "endOffset": 1447
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 3,
+                        "startOffset": 639,
+                        "endColumn": 44,
+                        "endOffset": 680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1452,
+                    "endColumn": 47,
+                    "endOffset": 1495
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 3,
+                        "startOffset": 1060,
+                        "endColumn": 46,
+                        "endOffset": 1103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1500,
+                    "endColumn": 53,
+                    "endOffset": 1549
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 3,
+                        "startOffset": 100,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1554,
+                    "endColumn": 47,
+                    "endOffset": 1597
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 3,
+                        "startOffset": 860,
+                        "endColumn": 46,
+                        "endOffset": 903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1602,
+                    "endColumn": 63,
+                    "endOffset": 1661
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 3,
+                        "startOffset": 575,
+                        "endColumn": 62,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1666,
+                    "endColumn": 45,
+                    "endOffset": 1707
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 3,
+                        "startOffset": 529,
+                        "endColumn": 44,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1712,
+                    "endColumn": 51,
+                    "endOffset": 1759
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 3,
+                        "startOffset": 213,
+                        "endColumn": 50,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1764,
+                    "endColumn": 53,
+                    "endOffset": 1813
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 3,
+                        "startOffset": 762,
+                        "endColumn": 52,
+                        "endOffset": 811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1818,
+                    "endColumn": 51,
+                    "endOffset": 1865
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 3,
+                        "startOffset": 1008,
+                        "endColumn": 50,
+                        "endOffset": 1055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1870,
+                    "endColumn": 54,
+                    "endOffset": 1920
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 3,
+                        "startOffset": 367,
+                        "endColumn": 53,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1925,
+                    "endColumn": 47,
+                    "endOffset": 1968
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 3,
+                        "startOffset": 481,
+                        "endColumn": 46,
+                        "endOffset": 524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1973,
+                    "endColumn": 58,
+                    "endOffset": 2027
+                },
+                "from": {
+                    "file": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 3,
+                        "startOffset": 422,
+                        "endColumn": 57,
+                        "endOffset": 476
+                    }
+                }
+            }
+        ]
+    }
+]

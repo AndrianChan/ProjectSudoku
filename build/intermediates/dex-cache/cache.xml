@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Rian\Desktop\Project Sudoku\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f3dc187e9ab9bd4f99ee98643714cee48a4b6146">
+        <dex dex="C:\Users\Rian\Desktop\Project Sudoku\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6b89ad84a83e047f846fc3a05d60312a1207dc39.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rian\Desktop\Project Sudoku\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="97661dbee489df9eb34bf64e650e880c5c2d6d71">
+        <dex dex="C:\Users\Rian\Desktop\Project Sudoku\app\build\intermediates\pre-dexed\debug\instant-run_2ba9bf9e118cd5eafbb89be10512717ead94c90a.jar" />
+    </item>
+
+</items>

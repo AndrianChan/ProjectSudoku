@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wall_1.png",
+        "source": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\drawable-hdpi\\wall_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\b1.png",
+        "source": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\drawable-hdpi\\b1.png"
+    },
+    {
+        "merged": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_name.png",
+        "source": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sudoku.png",
+        "source": "C:\\Users\\Rian\\Desktop\\Project Sudoku\\app\\src\\main\\res\\drawable-hdpi\\sudoku.png"
+    }
+]
